@@ -2,31 +2,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Clan de Tanques - Información del Clan</title>
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-image: url('/Users/danielarocio/Downloads/H2x1_NSwitchDS_WorldOfTanksBlitz_image1600w.jpg'); /* Ruta de tu imagen de fondo */
-    background-size: cover;
-    background-attachment: fixed;
-  }
-
-  .container {
-    width: 80%;
-    max-width: 800px;
-    margin: 50px auto;
-    background-color: rgba(255, 255, 255, 0.8); /* Color de fondo con transparencia */
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-  }
-
-  h1, h2, p {
-    color: #333;
-  }
-</style>
 </head>
 <body>
 
